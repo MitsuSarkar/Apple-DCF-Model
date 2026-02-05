@@ -120,8 +120,9 @@ Assumption-driven modeling
 Formula-based sensitivity analysis
 
 ## 📎 File
-
 Apple_3_statement_model.xlsx
+
+
 <img width="700" height="495" alt="Screenshot 2026-02-06 015433" src="https://github.com/user-attachments/assets/30e9f6fe-f003-4400-bb04-606a1f60bb47" />
 <img width="594" height="204" alt="Screenshot 2026-02-06 015412" src="https://github.com/user-attachments/assets/4ce9277b-117d-43d7-a388-3d730b4924f2" />
 <img width="652" height="280" alt="Screenshot 2026-02-06 015356" src="https://github.com/user-attachments/assets/bfae768c-8482-4b30-8ec3-165dbef3ad92" />
